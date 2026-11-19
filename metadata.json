@@ -1,0 +1,6 @@
+{
+  "name": "منصة فكرة التعليمية",
+  "description": "منصة تعليمية عربية محمية بنظام صفوف دراسية متكامل وإدارة شاملة للأدمن والمشرفين والطلاب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
